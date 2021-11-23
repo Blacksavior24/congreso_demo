@@ -125,3 +125,13 @@
     display: flex;
     justify-content: center;
 }
+.precios__img{
+    max-width: 100%;
+}
+#Precios{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
